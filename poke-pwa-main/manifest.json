@@ -1,0 +1,20 @@
+{
+    "name": "Rafaels Pokedex",
+    "short_name": "Pokedex",
+    "start_url": ".",
+    "display": "fullscreen",
+    "background_color": "#ff0000",
+    "description": "An app to lookup pokemon names and details",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "icon144.png",
+            "sizes": "any",
+            "type": "image/png"
+        }
+    ]
+}
